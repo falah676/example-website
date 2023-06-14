@@ -43,7 +43,7 @@ nav {
     margin-left: auto;
 }
 
-.nav-active{
+.nav-active a{
    color: var(--var-btn);
 }
 
